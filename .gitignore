@@ -1,0 +1,13 @@
+.idea
+temp
+php_errors.log
+*.lock
+*.flock
+*.tar.gz
+*.sql
+log@*.json
+vendor/**/.git
+/composer.json
+/a_test.go
+test
+*_test.go
